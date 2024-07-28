@@ -1,0 +1,99 @@
+# .NET related
+[Bb]in/
+[Oo]bj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+!**/bin/
+!**/obj/
+*.csproj.user
+*.suo
+*.user
+*.rsuser
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+
+# Rider related
+.idea/
+*.sln.iml
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# VS Code related
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Logs
+*.log
+logs
+logs/
+
+# NPM Packages
+node_modules/
+npm-debug.log
+yarn-error.log
+.yarn/
+
+# Debug and Release Folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Entity Framework Core migrations
+**/Migrations/
+
+# Azure Function local settings file
+local.settings.json
+
+# OS generated files
+*.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider related files
+.idea/
+.idea/*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
